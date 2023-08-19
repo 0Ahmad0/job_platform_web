@@ -1,0 +1,8 @@
+{
+  "ok": "Ok",
+  "field_required": "The Field Required!",
+  "enter_valid_email": "Enter Valid Email!",
+  "enter_valid_phone": "Enter Valid Phone!",
+  "enter_strong_password_length": "Enter Strong Password Length!",
+  "password_do_not_match": "Password Do not Match!"
+}

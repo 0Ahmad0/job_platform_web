@@ -1,0 +1,9 @@
+{
+  "ok": "نعم",
+  "field_required": "هذالحقل مطلوب!",
+  "enter_valid_email": "أدخل ايميل صحيح!",
+  "enter_valid_phone": "أدخل رقم هاتف صحيح!",
+  "enter_strong_password_length": "أدخل كلمة مرور قوية!",
+  "password_do_not_match": "كلمة المرور غير متطابقة!"
+
+}
